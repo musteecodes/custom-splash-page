@@ -19,9 +19,7 @@ A custom HTML-based captive portal splash page designed for [NoDogSplash](https:
 ```
 custom-splash-page/
 ├── index.html          # Splash page
-├── style.css           # Stylesheet
 ├── auth.sh             # Authentication script
-└── images/             # Assets (optional)
 ```
 
 ---
