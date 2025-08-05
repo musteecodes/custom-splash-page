@@ -35,7 +35,7 @@ custom-splash-page/
    Copy `index.html`, `auth.sh`, and other files into the NoDogSplash directory:
 
    ```bash
-   sudo cp splash.html /etc/nodogsplash/htdocs/
+   sudo cp index.html /etc/nodogsplash/htdocs/
    sudo cp auth.sh /etc/nodogsplash/htdocs/
    sudo chmod +x /etc/nodogsplash/htdocs/auth.sh
    ```
